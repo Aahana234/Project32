@@ -8,7 +8,8 @@ var apple1, apple2,apple3,apple4,apple5,apple6,apple7,apple8,apple9,apple10;
 var stoneObj;
 var rope;
 var backgroundImage;
-
+var boyImage;
+var treeImage;
 
 function preload(){
 backgroundImage = loadImage("Sprites/BackgroundImage.jpg");
