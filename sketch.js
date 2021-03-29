@@ -12,8 +12,8 @@ var backgroundImage;
 
 function preload(){
 backgroundImage = loadImage("Sprites/BackgroundImage.jpg");
-boyImage = loadImage("sprites/boy.png");
-treeImage = loadImage("sprites/TreeImage.png");
+boyImage = loadImage("Sprites/boy.png");
+treeImage = loadImage("Sprites/TreeImage.png");
 
 }
 
